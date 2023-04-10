@@ -9,7 +9,7 @@
 
 &nbsp;
 <div align="center">
-Meu nome é Cristopher, e esta é a minha página de trabalhos em desenvolvimento de software. Seja bem-vindo!
+Meu nome é Cristopher, Engenheiro Full Stack Web, e esta é a minha página de trabalhos pessoais e profissionais. Seja bem-vindo!
 </div>
 
 
