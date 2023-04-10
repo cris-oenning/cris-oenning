@@ -9,9 +9,11 @@
 
 &nbsp;
 <div align="center">
-Meu nome é Cristopher Oenning, engenheiro Full Stack Web/mobile, e esta é a minha página de trabalhos pessoais e profissionais. Seja bem-vindo!
+Meu nome é Cristopher Oenning, engenheiro Full Stack Web/mobile, e esta é a minha página de trabalhos pessoais e profissionais.
 </div>
-
+<div align="center">
+Seja bem-vindo!
+</div>
 
 &nbsp;
 
