@@ -9,7 +9,7 @@
 
 &nbsp;
 <div align="center">
-Meu nome é Cristopher, e esta é a minha pégina de trabalhos em desenvolvimento de software.
+Meu nome é Cristopher, e esta é a minha página de trabalhos em desenvolvimento de software.
 </div>
 
 
