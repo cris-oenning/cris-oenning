@@ -9,7 +9,7 @@
 
 &nbsp;
 <div align="center">
-My name is Christopher Oenning, Full Stack Web/Mobile Engineer, and this is my personal and professional work page.
+My name is Cristopher Oenning, Full Stack Web/Mobile Engineer, and this is my personal and professional work page.
 </div>
 <div align="center">
 Welcome!
