@@ -9,10 +9,10 @@
 
 &nbsp;
 <div align="center">
-Meu nome é Cristopher Oenning, engenheiro Full Stack Web/Mobile, e esta é a minha página de trabalhos pessoais e profissionais.
+My name is Christopher Oenning, Full Stack Web/Mobile Engineer, and this is my personal and professional work page.
 </div>
 <div align="center">
-Seja bem-vindo!
+Welcome!
 </div>
 
 &nbsp;
