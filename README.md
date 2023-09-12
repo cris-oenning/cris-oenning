@@ -9,7 +9,7 @@
 
 &nbsp;
 <div align="center">
-Olá! Meu nome é Cristopher Oenning, desenvolvedor de software Full Stack iniciante, e neste perfil você encontrará meus projetos de trabalhos e estudos.
+Olá! Meu nome é Cristopher Oenning, desenvolvedor de software, e neste perfil você encontrará meus projetos de trabalhos e estudos.
 </div>
 <div align="center">
 Seja Bem-vindo!
